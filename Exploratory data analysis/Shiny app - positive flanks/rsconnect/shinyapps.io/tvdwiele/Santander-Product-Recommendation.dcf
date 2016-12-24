@@ -1,0 +1,9 @@
+name: Santander-Product-Recommendation
+account: tvdwiele
+server: shinyapps.io
+appId: 140270
+bundleId: 656062
+url: https://tvdwiele.shinyapps.io/Santander-Product-Recommendation/
+when: 1482246129.5815
+asMultiple: FALSE
+asStatic: FALSE

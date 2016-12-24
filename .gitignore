@@ -2,6 +2,11 @@
 Thumbs.db
 ehthumbs.db
 
+# Ignore data files
+*.csv
+*.z7
+*.rds
+
 # Folder config file
 Desktop.ini
 
