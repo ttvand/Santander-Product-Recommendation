@@ -5,7 +5,7 @@ ehthumbs.db
 # Ignore data files
 *.csv
 *.z7
-*.rds
+#*.rds
 
 # Folder config file
 Desktop.ini
